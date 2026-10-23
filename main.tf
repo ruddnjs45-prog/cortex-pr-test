@@ -12,5 +12,5 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "test" {
-  bucket = "cortex-pr-test-bucket-example"
+  bucket = "cortex-pr-test-bucket-example2"
 }
